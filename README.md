@@ -94,6 +94,12 @@ Description:
   
   +++++++
   
+  My grade: 
+    grade 5 for 100 numbers 
+    grade 4 for 500 numbers
+    
+  ++++++++
+  
   a good guide: 
   
   https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/
